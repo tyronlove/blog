@@ -1,13 +1,13 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
-  title: "Ryan Dahl",
-  author: "Ryan Dahl",
+  title: "Tyron Love",
+  author: "Tyron Love",
   avatar: "./ry.jpg",
   avatarClass: "full",
   links: [
-    { title: "Email", url: "mailto:ry@tinyclouds.org" },
-    { title: "GitHub", url: "https://github.com/ry" },
+    { title: "Email", url: "mailto:tyronlove@duck.com" },
+    { title: "Twitter", url: "https://twitter.com/tyron_love" },
   ],
   background: "#fff",
   middlewares: [
