@@ -9,7 +9,6 @@ blog({
     { title: "Email", url: "mailto:tyronlove@duck.com" },
     { title: "Twitter", url: "https://twitter.com/tyron_love" },
   ],
-  description: "Restarting my blogging career one commit at a time",
   background: "#fff",
   middlewares: [
     ga("UA-91675022-1"),
@@ -18,4 +17,5 @@ blog({
       "rant.html": "rant",
     }),
   ],
+  description: "Restarting my blogging career one commit at a time",
 });
