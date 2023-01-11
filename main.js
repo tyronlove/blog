@@ -2,6 +2,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
   title: "Tyron's Blog",
+  description: "Restarting my blogging career one commit at a time",
   author: "Tyron Love",
   avatar: "https://pbs.twimg.com/profile_images/1495138432959537156/1Z9AKCI4_400x400.jpg",
   avatarClass: "full",
@@ -17,5 +18,4 @@ blog({
       "rant.html": "rant",
     }),
   ],
-  description: "Restarting my blogging career one commit at a time",
 });
