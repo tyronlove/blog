@@ -4,7 +4,7 @@ blog({
   title: "Tyron's Blog",
   description: "Proud Dad. Lover of one exquisite human. Cartoonist for pretend.",
   author: "Tyron Love",
-  avatar: "/images/em-me.jpg",
+  avatar: "/images/em-me.png",
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:tyronlove@duck.com" },
