@@ -14,8 +14,7 @@ blog({
   middlewares: [
     ga("UA-91675022-1"),
     redirects({
-      "iocp-links.html": "iocp_links",
-      "rant.html": "rant",
+      "https://tyronlove.com": "https://www.tyronlove.com",
     }),
   ],
   favicon: "favicon.ico",
