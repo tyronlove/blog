@@ -20,4 +20,5 @@ blog({
     }),
   ],
   favicon: "favicon.ico",
+  footer: <footer>Copyright Tyron Love 2023</footer>
 });
