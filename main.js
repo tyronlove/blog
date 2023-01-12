@@ -18,4 +18,5 @@ blog({
       "rant.html": "rant",
     }),
   ],
+  favicon: "favicon.ico",
 });
