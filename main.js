@@ -12,7 +12,7 @@ blog({
   ],
   background: "#fff",
   middlewares: [
-    ga("UA-91675022-1"),
+    ga("UA-XXXXXXXX-X"),
     redirects({
       "iocp-links.html": "iocp_links",
       "rant.html": "rant",
