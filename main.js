@@ -9,6 +9,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:tyronlove@duck.com" },
     { title: "Twitter", url: "https://twitter.com/tyron_love" },
+    { title: "Instagram", url: "https://www.instagram.com/tyronlove/" },
   ],
   background: "#fff",
   middlewares: [
