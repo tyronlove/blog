@@ -8,7 +8,7 @@ In my last post on this tiny blog I confessed that my iPhone got stolen and I pu
 
 I'm the curious type and like to research stuff that interests me... a lot! 
 
-So, while scrolling through my dumbphone's settings (because there's nothing else to scroll through) I noticed the operating system was called Aphy. Intrigued I walked all the way from my bedroom to my home office to do a Google search and found that the Punkt MP02s operating system is called AphostrophyOS which after some more digging I found out was a commercialised fork of an open source operating system called GrapheneOS. Down the rabbit hole I go!
+So, while scrolling through my dumbphone's settings (because there's nothing else to scroll through) I noticed the operating system was called <em>Aphy</em>. Intrigued I walked all the way from my bedroom to my home office to do a Google search and found that the Punkt MP02s operating system is called AphostrophyOS which after some more digging I found out was a commercialised fork of an open source operating system called GrapheneOS. Down the rabbit hole I go!
 
 [GrapheneOS](https://grapheneos.org/) is a private and secure mobile operating system with Android app compatability. It's a non-profit open source project and I think it's awesome!
 
