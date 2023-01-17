@@ -10,7 +10,7 @@ Despite that horrible situation the incident resulted in me having to get a new 
 
 <img src="images/dumbphone.jpg"/>
 
-It's a [ Punkt MP02 New Generation 4G voice phone](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/). It makes calls, sends text messages and is supposed to have a custom app called Pigeon which uses the Signal protocol to make calls and send encrypted messages. It doesn't work, which is a shame. But, the actual phone works fantastically, calls are clear and the construction of the device is excellent.
+It's a [Punkt MP02 New Generation 4G voice phone](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/). It makes calls, sends text messages and is supposed to have a custom app called Pigeon which uses the Signal protocol to make calls and send encrypted messages. It doesn't work, which is a shame. But, the actual phone works fantastically, calls are clear and the construction of the device is excellent.
 
 I've been using the Punkt MP02 as my mobile device for a couple of weeks now. It confuses people, a teller at the supermarket said "oh, sorry" when I explained that I couldn't download their coupon app to my phone, because it doesn't have apps, and my insurance initially rejected the phone as a mobile device because they thought it was a calculator.
 
