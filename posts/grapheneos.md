@@ -10,7 +10,7 @@ I'm the curious type and like to research stuff that interests me... a lot!
 
 So, while scrolling through my dumbphone's settings (because there's nothing else to scroll through) I noticed the operating system was called <em>Aphy</em>. Intrigued I walked all the way from my bedroom to my home office to do a Google search and found that the Punkt MP02s operating system is called AphostrophyOS which after some more digging I found out was a commercialised fork of an open source operating system called GrapheneOS. <strong>Down the rabbit hole I go!</strong>
 
-[GrapheneOS](https://grapheneos.org/) is a private and secure mobile operating system with Android app compatability. It's a non-profit open source project and I think it's awesome!
+[GrapheneOS](https://grapheneos.org/) is a private and secure mobile operating system with Android app compatability. It's a non-profit open source project and I think it's <em>awesome</em>!
 
 It' awesome because it's irony at gigantic proportions. 
 
