@@ -12,7 +12,7 @@ So, while scrolling through my dumbphone's settings (because there's nothing els
 
 [GrapheneOS](https://grapheneos.org/) is a private and secure mobile operating system with Android app compatability. It's a non-profit open source project and I think it's <em>awesome</em>!
 
-It' awesome because it's irony at gigantic proportions. 
+It' awesome because it's an oxymoron of gigantic proportions. 
 
 Android as an operating system is not secure, apps on the platform have access to a ton of your data by default and Google (who owns Android) is the inventor of [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism) so the words "private" and "Android" are at odds here. 
 
