@@ -14,7 +14,7 @@ So, while scrolling through my dumbphone's settings (because there's nothing els
 
 It' awesome because it's irony at gigantic proportions. 
 
-Android as an operating system is not secure, apps on the platform have access to a ton of your data by default and Google (who owns Android) is the inventor of [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism) so the words "private" and "secure" are at odds here. 
+Android as an operating system is not secure, apps on the platform have access to a ton of your data by default and Google (who owns Android) is the inventor of [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism) so the words "private" and "Android" are at odds here. 
 
 GrapheneOS allows you to install apps from the Google Play Store and by default GrapheneOS secures your phone by limiting app access to your data and allowing you to choose what data apps have access to. Finally, you can have a smartphone that is truly private and secure.
 
