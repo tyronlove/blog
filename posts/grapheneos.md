@@ -4,7 +4,7 @@ publish_date: 2023-01-18
 background: white
 ---
 
-In my last post on this tiny blog I confessed that my iPhone got stolen and I purchased a dumbphone. I'm happy to report that I'm still using my Punkt MP02 and I love it, despite the Signal app (called Pigeon) not working. Punkt's support assured me they're deploying an update to fix this soon, so I will be able to send secure messages to those friends who haven't bothered to give me a call because talking on the phone is TOO HARD!
+In my [last post](https://www.tyronlove.com/dumbphone) on this tiny blog I confessed that my iPhone got stolen and I purchased a dumbphone. I'm happy to report that I'm still using my Punkt MP02 and I love it, despite the Signal app (called Pigeon) not working. Punkt's support assured me they're deploying an update to fix this soon, so I will be able to send secure messages to those friends who haven't bothered to give me a call because talking on the phone is TOO HARD!
 
 I'm the curious type and like to research stuff that interests me... a lot! 
 
