@@ -3,6 +3,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 blog({
   title: "Tyron's Blog",
   description: "Proud Dad. Lover of one exquisite human. Cartoonist for pretend.",
+  showHeaderOnPostPage: true,
   author: "Tyron Love",
   avatar: "/images/profile.png",
   avatarClass: "full",
