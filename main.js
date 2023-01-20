@@ -13,10 +13,16 @@ blog({
   ],
   background: "#fff",
  middlewares: [
-  //  ga("UA-XXXXXXXX-X"),
+    ga("UA-XXXXXXXX-X"),
     redirects({
       "rant.html": "rant",
     }),
   ],
+  lang: "en",
   favicon: "favicon.ico",
+  ogImage: {
+    url: "/images/profile.png",
+    twitterCard:  "summary_large_image" 
+  },
+  style:".markdown-body ul, .markdown-body ol { list-style: disc !important;}"
 });
