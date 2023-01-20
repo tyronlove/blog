@@ -24,5 +24,5 @@ blog({
     url: "/images/profile.png",
     twitterCard:  "summary_large_image" 
   },
-  style:".markdown-body ul, .markdown-body ol { list-style: disc !important;}, .text-lg {text-align: center;}"
+  style:".markdown-body ul, .markdown-body ol { list-style: disc !important;}, .text-lg {text-align: center!important;}"
 });
