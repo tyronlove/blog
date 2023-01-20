@@ -12,10 +12,9 @@ blog({
     { title: "Instagram", url: "https://www.instagram.com/tyronlove/" },
   ],
   background: "#fff",
-  middlewares: [
-    ga("UA-XXXXXXXX-X"),
+ middlewares: [
+  //  ga("UA-XXXXXXXX-X"),
     redirects({
-      "iocp-links.html": "iocp_links",
       "rant.html": "rant",
     }),
   ],
