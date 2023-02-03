@@ -12,7 +12,7 @@ One part of my <em>sort of digital declutter</em> requires that I stay off Faceb
 
 If no one bothers to contact me and say, "Hey, you're not on Facebook anymore!" then I know Facebook is a waste of time and I can then ditch it again for good. I'm writing this short blog post with the confidence that <em>no one actually reads these posts</em>.
 
-It's a <em>sort of digital declutter</em>  because I've only deactivated Facebook, it's the only place where people engage with me, so if my goal is to see if anyone notices I'm gone, then Facebook is the right trial environment. I deleted the Twitter, Mastadon and Instagram apps off of my iPad, but kept Reddit because I don't ever do things properly.
+It's a <em>sort of digital declutter</em>  because I've only deactivated Facebook, it's the only place where people engage with me, so if my goal is to see if anyone notices I'm gone, then Facebook is the right trial environment. I deleted the Twitter, Mastodon and Instagram apps off of my iPad, but kept Reddit because I don't ever do things properly.
 
 Talking about Reddit, I had a fight with a moderator of the /r/southafrica subreddit last weekend and I got a permanent ban, which is the first time I've been banned online in my life, so looks like I'm making progress as a human.
 
