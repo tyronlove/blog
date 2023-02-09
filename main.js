@@ -1,4 +1,4 @@
-import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
+import blog, { www, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
   title: "Tyron's Blog",
@@ -15,6 +15,9 @@ blog({
   middlewares: [
     redirects({
       "rant.html": "rant",
+    }),
+    www({
+      add: true,
     }),
   ],
   lang: "en",
