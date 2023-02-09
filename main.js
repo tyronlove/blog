@@ -25,22 +25,3 @@ blog({
   },
   style:".text-lg {text-align: center!important;}"
 });
-
-import { serve } from "https://deno.land/std/http/server.ts";
-
-const server = serve({ port: 80 });
-
-for await (const req of server) {
-  if (req.headers.get("host").startsWith("tyronlove.com")) {
-    req.respond({
-      status: 301,
-      headers: new Headers({
-        "location": `http://www.tyronlove.com${req.url}`,
-      }),
-    });
-  } else {
-    req.respond({
-      body: "Hello World\n",
-    });
-  }
-}
