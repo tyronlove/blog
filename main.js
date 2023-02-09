@@ -17,6 +17,9 @@ blog({
     redirects({
       "rant.html": "rant",
     }),
+    www({
+      add: true,
+    }),
   ],
   lang: "en",
   favicon: "favicon.ico",
