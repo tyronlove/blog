@@ -13,12 +13,8 @@ blog({
   ],
   background: "#fff",
   middlewares: [
-    ga("UA-XXXXXXXX-X"),
     redirects({
       "rant.html": "rant",
-    }),
-    www({
-      add: true,
     }),
   ],
   lang: "en",
