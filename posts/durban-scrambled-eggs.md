@@ -12,7 +12,7 @@ While I do enjoy the buttery, creamy vibes of a well made French-style scramble,
 
 You may have never heard of Durban-style scrambled eggs, and that’s understandable because I invented them. 
 
-<img src=“images/durban-scrambled-eggs.jpg”/>
+<img src="images/durban-scrambled-eggs.jpg"/>
 
 Durban boast the largest Indian community outside of India. Indentured Indians were brought to Durban by the British to work on sugar cane farms 174 years ago and with them came their family curry recipes which over time evolved into what is now known as Durban curry, a fiery, oily style of curry based on tomatoes, coriander seed and chillis. 
 
