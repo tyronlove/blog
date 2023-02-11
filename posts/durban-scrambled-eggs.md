@@ -25,18 +25,17 @@ This serves one hungry, hungover person.
 
 ### Ingredients
 
-<ul>
-<li>3 fresh eggs</li>
-<li>Half an onion, chopped</li>
-<li>1 green chilli or half a tsp dried chilli flakes</li>
-<li>1 tsp Durban style curry powder (I use [this stuff](https://www.currylovers.co.za/product/durban-curry-lovers-original-all-in-one/))</li>
-<li>A small handful of coriander leaves, chopped (called Dhania in Durban)</li>
-<li>3 tbsp butter</li>
-<li>1 tbsp sunflower oil</li>
-<li>Pinch of salt</li>
-<li>Aromat</li>
-<li>Splash of milk</li>
-</ul>
+- 3 fresh eggs
+- Half an onion, chopped
+- 1 green chilli or half a tsp dried chilli flakes
+- 1 tsp Durban style curry powder (I use [this stuff](https://www.currylovers.co.za/product/durban-curry-lovers-original-all-in-one/))
+- A small handful of coriander leaves, chopped (called Dhania in Durban)
+- 3 tbsp butter
+- 1 tbsp sunflower oil
+- Pinch of salt
+- Aromat
+- Splash of milk
+
 
 ### Method
 
