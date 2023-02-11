@@ -25,7 +25,7 @@ This serves one hungry, hungover person.
 
 ### Ingredients
 
-- 3 fresh eggs
+* 3 fresh eggs
 - Half an onion, chopped
 - 1 green chilli or half a tsp dried chilli flakes
 - 1 tsp Durban style curry powder (I use [this stuff](https://www.currylovers.co.za/product/durban-curry-lovers-original-all-in-one/))
