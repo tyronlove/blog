@@ -21,7 +21,7 @@ blog({
   favicon: "favicon.ico",
   ogImage: {
     url: "/images/profile.png",
-    twitterCard:  "summary_large_image" 
+    twitterCard:  "/images/profile.png" 
   },
   style:".text-lg {text-align: center!important;} ol, ul, menu {list-style: square!important;}"
 });
