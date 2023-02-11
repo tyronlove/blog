@@ -4,9 +4,9 @@ publish_date: 2023-02-11
 background: white
 ---
 
-Many chefs will tell you not to mess with scrambled eggs. They say things like, “it’s all about the eggs” while continuously stirring eggs with butter over a low heat, “your hand must just take the heat from the side of the pan. If you have to remove the pan from the heat, you lack understanding of temperature”. 
+Many chefs will tell you not to mess with scrambled eggs. They say things like, <em>“it’s all about the eggs”</em> while continuously stirring eggs with butter over a low heat, <em>“your hand must just take the heat from the side of the pan. If you have to remove the pan from the heat, you lack understanding of temperature”</em>. 
 
-So, says Marco Pierre-White in his BBC Maestro cooking course which I enrolled in to try get my cooking spark back after a series of Sunday lunch disasters. 
+So, says Marco Pierre-White in his <em>BBC Maestro</em> cooking course which I enrolled in to try get my cooking spark back after a series of Sunday lunch disasters. 
 
 While I do enjoy the buttery, creamy vibes of a well made French-style scramble, sometimes you wake up with a hangover, a piece of your soul is missing due to the crushing weight of regret and the only cure is a Green Ambulance (Creme Soda) and some Durban-style scrambled eggs on toast. 
 
