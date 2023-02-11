@@ -10,7 +10,7 @@ So, says Marco Pierre-White in his <em>BBC Maestro</em> cooking course which I e
 
 While I do enjoy the buttery, creamy vibes of a well made French-style scramble, sometimes you wake up with a hangover, a piece of your soul is missing due to the crushing weight of regret and the only cure is a Green Ambulance (Creme Soda) and some Durban-style scrambled eggs on toast. 
 
-You may have never heard of Durban-style scrambled eggs, and that’s understandable because I invented them. 
+You may have never heard of Durban-style scrambled eggs, and that’s understandable because <em>I invented them</em>. 
 
 <img src="images/durban-scrambled-eggs.jpg"/>
 
