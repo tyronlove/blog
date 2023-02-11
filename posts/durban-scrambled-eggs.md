@@ -14,7 +14,7 @@ You may have never heard of Durban-style scrambled eggs, and that’s understand
 
 <img src="images/durban-scrambled-eggs.jpg"/>
 
-Durban boast the largest Indian community outside of India. Indentured Indians were brought to Durban by the British to work on sugar cane farms 174 years ago and with them came their family curry recipes which over time evolved into what is now known as Durban curry, a fiery, oily style of curry based on tomatoes, coriander seed and chillis. 
+[Durban boasts the largest Indian community](https://en.wikipedia.org/wiki/Indian_South_Africans) outside of India. Indentured Indians were brought to Durban by the British to work on sugar cane farms 174 years ago and with them came their family curry recipes which over time evolved into what is now known as Durban curry, a fiery, oily style of curry based on tomatoes, coriander seed and chillis. 
 
 I grew up on the stuff. Having Indian neighbours is a delight as they love to share their food and culture, so I’m sure I had this dish when I was a kid, it was probably called <em>masala eggs</em> but I like to call it Durban-style scrambled eggs so that I can feel like I am a culinary genius. 
 
