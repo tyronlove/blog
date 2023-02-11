@@ -34,7 +34,7 @@ This serves one hungry, hungover person.
 - 1 tbsp sunflower oil
 - Pinch of salt
 - Aromat
-- Splash of milk
+- Splash of milk.
 
 
 ### Method
