@@ -1,7 +1,11 @@
 ---
-title: Sort of Digital Decluttering
+author : Tyron
 publish_date: 2023-02-02
-background: white
+title : "Sort of Digital Decluttering"
+description : "I deactivated my Facebook account for 30-days to see if anyone would notice."
+tags : ["Digital Minimalism, Social Media, Cal Newport"]
+allow_iframes: true
+pathname: "decluttering"
 ---
 
 Today I deactivated my Facebook account, it's not the first time. I deleted my entire Facebook account in, I think, 2018 until early 2020. I can't remember the reason I rejoined.

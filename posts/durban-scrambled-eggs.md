@@ -1,7 +1,11 @@
 ---
-title: Durban-Style Scrambled Eggs
+author : Tyron
 publish_date: 2023-02-11
-background: white
+title : "Durban-Style Scrambled Eggs"
+description : "I invented a delicious hangover cure, a spicy, buttery scrambled eggs dish."
+tags : ["Recipes, Durban"]
+allow_iframes: true
+pathname: "durban-scrambled-eggs"
 ---
 
 Many chefs will tell you not to mess with scrambled eggs. They say things like, <em>“it’s all about the eggs”</em> while continuously stirring eggs with butter over a low heat, <em>“your hand must just take the heat from the side of the pan. If you have to remove the pan from the heat, you lack understanding of temperature”</em>. 
