@@ -25,5 +25,4 @@ blog({
     twitterCard:  "/images/profile.png" 
   },
   style:".text-lg {text-align: center!important;} ol, ul, menu {list-style: square!important;}",
-  colorScheme:"dark",
 });
