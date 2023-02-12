@@ -19,5 +19,5 @@ blog({
     url: "/images/profile.png",
     twitterCard:  "/images/profile.png" 
   },
-  style:".text-lg {text-align: center!important;} ol, ul, menu {list-style: square!important;}", ".text-bluegray-500 { font-weight: 400;!important}"
+  style:".text-lg {text-align: center!important;} ol, ul, menu {list-style: square!important;} .text-bluegray-500 { font-weight: 400;!important}"
 });
