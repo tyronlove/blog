@@ -7,9 +7,9 @@ blog({
   avatar: "/images/profile.png",
   avatarClass: "full",
   links: [
-    { title: "Email", url: "mailto:tyronlove@duck.com" },
-    { title: "Twitter", url: "https://twitter.com/tyron_love" },
+    { title: "Mastodon", url: "https://techhub.social/@tyronlove" },
     { title: "Instagram", url: "https://www.instagram.com/tyronlove/" },
+    { title: "Github", url: "https://github.com/tyronlove" },
   ],
   background: "#fff",
   middlewares: [
