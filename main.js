@@ -18,6 +18,7 @@ blog({
     }),
   ],
   lang: "en",
+  canonicalUrl: "https://www.tyronlove.com"
   favicon: "favicon.ico",
   ogImage: {
     url: "/images/profile.png",
