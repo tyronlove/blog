@@ -7,9 +7,9 @@ blog({
   avatar: "/images/profile.png",
   avatarClass: "full",
   links: [
-    { title: "Twitter", url: "https://twitter.com/tyron_love" target:"_blank"},
-    { title: "Instagram", url: "https://www.instagram.com/tyronlove/" target:"_blank"},
-    { title: "Github", url: "https://github.com/tyronlove" target:"_blank"},
+    { title: "Twitter", url: "https://twitter.com/tyron_love" },
+    { title: "Instagram", url: "https://www.instagram.com/tyronlove/" },
+    { title: "Github", url: "https://github.com/tyronlove" },
   ],
   background: "#fff",
   middlewares: [
