@@ -20,7 +20,7 @@ blog({
   lang: "en",
   canonicalUrl: "https://www.tyronlove.com",
   favicon: "favicon.ico",
-  theme:"dark",
+  theme:"light",
   ogImage: {
     url: "/images/profile.png",
     twitterCard:  "/images/profile.png" 
