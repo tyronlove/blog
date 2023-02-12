@@ -1,7 +1,11 @@
 ---
-title: Dumbphone
+author : Tyron
 publish_date: 2023-01-11
-background: white
+title : "Dumbphone"
+description : "My journey to a distraction free dumbphone."
+tags : ["Digital Minimalism, Dumbphones, Punkt MP02"]
+allow_iframes: true
+pathname: "dumbphone"
 ---
 
 On Christmas Day 2022 I got my iPhone stolen. The story of how it got stolen is both embarrassing and infuriating!

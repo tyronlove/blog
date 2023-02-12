@@ -11,12 +11,6 @@ blog({
     { title: "Instagram", url: "https://www.instagram.com/tyronlove/" },
     { title: "Github", url: "https://github.com/tyronlove" },
   ],
-  background: "#fff",
-  middlewares: [
-    redirects({
-      "rant.html": "rant",
-    }),
-  ],
   lang: "en",
   canonicalUrl: "https://www.tyronlove.com",
   favicon: "favicon.ico",
