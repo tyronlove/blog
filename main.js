@@ -7,9 +7,9 @@ blog({
   avatar: "/images/profile.png",
   avatarClass: "full",
   links: [
-    { title: "Mastodon", url: "https://techhub.social/@tyronlove" },
-    { title: "Instagram", url: "https://www.instagram.com/tyronlove/" },
-    { title: "Github", url: "https://github.com/tyronlove" },
+    { title: "Twitter", url: "https://twitter.com/tyron_love" target:"_blank"},
+    { title: "Instagram", url: "https://www.instagram.com/tyronlove/" target:"_blank"},
+    { title: "Github", url: "https://github.com/tyronlove" target:"_blank"},
   ],
   background: "#fff",
   middlewares: [
@@ -20,6 +20,7 @@ blog({
   lang: "en",
   canonicalUrl: "https://www.tyronlove.com",
   favicon: "favicon.ico",
+  theme:"dark",
   ogImage: {
     url: "/images/profile.png",
     twitterCard:  "/images/profile.png" 
