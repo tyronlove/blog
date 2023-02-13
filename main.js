@@ -12,7 +12,7 @@ blog({
     { title: "Github", url: "https://github.com/tyronlove" },
   ],
   lang: "en",
-  canonicalUrl: "https://www.tyronlove.com",
+  canonicalUrl: "https://www.tyronlove.com/",
   favicon: "favicon.ico",
   ogImage: {
     url: "/images/profile.png",
