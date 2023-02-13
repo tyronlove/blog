@@ -1,18 +1,34 @@
-import blog, {} from "https://deno.land/x/blog@0.5.0/blog.tsx";
+
+import blog, {
+  h,
+  highlight,
+  imageContainer,
+  redirects,
+} from "https://deno.land/x/vixalien_deno_blog@0.4.14/blog.tsx";
 
 blog({
-  title: "Tyron's Blog",
-  description: "Proud Dad. Lover of one exquisite human. Cartoonist for pretend.",
   author: "Tyron Love",
+  title: "Tyron's Blog",
   avatar: "/images/profile.png",
   avatarClass: "full",
+  dateStyle: "medium",
   links: [
+    { title: "GitHub", url: "https://github.com/tyronlove" },
     { title: "Twitter", url: "https://twitter.com/tyron_love" },
     { title: "Instagram", url: "https://www.instagram.com/tyronlove/" },
-    { title: "Github", url: "https://github.com/tyronlove" },
+  ],
+  canonicalUrl: Deno.env.get("URL"),
+  description:
+  "Proud Dad. Lover of one exquisite human. Cartoonist for pretend.",
+  middlewares: [
+    await highlight(),
+    await imageContainer(),
+    redirects({
+      "/feed/feed.rss": "/feed",
+      "/blog": "/",
+    }),
   ],
   lang: "en",
-  canonicalUrl: Deno.env.get("URL"),
   favicon: "favicon.ico",
   ogImage: {
     url: "/images/profile.png",
