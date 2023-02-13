@@ -6,7 +6,7 @@ description : "My journey to a distraction free dumbphone."
 tags : ["Digital Minimalism"]
 allow_iframes: true
 pathname: "dumbphone"
-canonicalUrl: "https://www.tyronlove.com/dumbphone"
+canonical: "https://www.tyronlove.com/dumbphone"
 ---
 
 On Christmas Day 2022 I got my iPhone stolen. The story of how it got stolen is both embarrassing and infuriating!
