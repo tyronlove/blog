@@ -1,4 +1,4 @@
-import blog, {} from "https://deno.land/x/vixalien_deno_blog@0.4.14/blog.tsx";
+import blog, {} from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
   title: "Tyron's Blog",
