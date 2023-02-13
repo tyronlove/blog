@@ -12,7 +12,6 @@ blog({
     { title: "Github", url: "https://github.com/tyronlove" },
   ],
   lang: "en",
-  canonicalUrl: Deno.env.get("URL"),
   favicon: "favicon.ico",
   ogImage: {
     url: "/images/profile.png",
