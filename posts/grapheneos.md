@@ -3,7 +3,7 @@ author : Tyron
 publish_date: 2023-01-18
 title : "GrapheneOS Rabbit Hole"
 description : "I go down a rabbit hole researching GrapheneOS, a private and Secure Android compatible OS."
-tags : ["Technology”]
+tags : “Technology”
 allow_iframes: true
 pathname: "grapheneos"
 ---

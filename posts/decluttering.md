@@ -3,7 +3,7 @@ author : Tyron
 publish_date: 2023-02-02
 title : "Sort of Digital Decluttering"
 description : "I deactivated my Facebook account for 30-days to see if anyone would notice."
-tags : ["Digital Minimalism”]
+tags : “Digital Minimalism”
 allow_iframes: true
 pathname: "decluttering"
 ---
