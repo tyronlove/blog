@@ -3,7 +3,7 @@ author : Tyron
 publish_date: 2023-01-11
 title : "Dumbphone"
 description : "My journey to a distraction free dumbphone."
-tags : ["Digital Minimalism, Dumbphones, Punkt MP02"]
+tags : ["Digital Minimalism”]
 allow_iframes: true
 pathname: "dumbphone"
 ---
