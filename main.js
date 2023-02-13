@@ -1,4 +1,9 @@
-import blog, {} from "./blog.tsx";
+import blog, {
+  h,
+  highlight,
+  imageContainer,
+  redirects,
+} from "./blog.tsx";
 
 blog({
   title: "Tyron's Blog",
