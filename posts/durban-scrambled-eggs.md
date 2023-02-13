@@ -3,7 +3,7 @@ author : Tyron
 publish_date: 2023-02-11
 title : "Durban-Style Scrambled Eggs"
 description : "I invented a delicious hangover cure, a spicy, buttery scrambled eggs dish."
-tags : “Recipes”
+tags : ["Recipes"]
 allow_iframes: true
 pathname: "durban-scrambled-eggs"
 ---
