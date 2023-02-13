@@ -14,16 +14,15 @@ import {
   Fragment,
   fromFileUrl,
   frontMatter,
-  gfm,
   h,
   html,
   HtmlOptions,
   join,
+  marked,
   relative,
   removeMarkdown,
   serve,
   serveDir,
-  UnoCSS,
   walk,
 } from "./deps.ts";
 import { Index, PostPage } from "./components.tsx";
@@ -100,7 +99,6 @@ function errorHandler(err: unknown) {
  * ```
  */
 export default async function blog(settings?: BlogSettings) {
-  html.use(UnoCSS(settings?.unocss)); // Load custom unocss module if provided
 
   const url = callsites()[1].getFileName()!;
   const blogState = await configureBlog(url, IS_DEV, settings);
@@ -211,14 +209,10 @@ async function watchForChanges(postsDirectory: string) {
     if (event.kind === "modify" || event.kind === "create") {
       for (const path of event.paths) {
         if (path.endsWith(".md")) {
-          try {
-            await loadPost(postsDirectory, path);
-            HMR_SOCKETS.forEach((socket) => {
-              socket.send("refresh");
-            });
-          } catch (err) {
-            console.error(`loadPost ${path} error:`, err.message);
-          }
+          await loadPost(postsDirectory, path);
+          HMR_SOCKETS.forEach((socket) => {
+            socket.send("refresh");
+          });
         }
       }
     }
@@ -250,22 +244,19 @@ async function loadPost(postsDirectory: string, path: string) {
     }
   }
 
-  const post: Post = {
+   const post: Post = {
     title: data.get("title") ?? "Untitled",
     author: data.get("author"),
     // Note: users can override path of a blog post using
     // pathname in front matter.
     pathname: data.get("pathname") ?? pathname,
-    // Note: no error when publish_date is wrong or missed
-    publishDate: data.get("publish_date") instanceof Date
-      ? data.get("publish_date")!
-      : new Date(),
+    publishDate: data.get("publish_date")! || data.get("created"),
     snippet,
     markdown: content,
     coverHtml: data.get("cover_html"),
     ogImage: data.get("og:image"),
-    tags: data.get("tags"),
-    allowIframes: data.get("allow_iframes"),
+    invert: Boolean(data.get("invert")),
+    tags: [data.get("tags")].flat().filter((tag) => !!tag) as string[],
   };
   POSTS.set(pathname, post);
   console.log("Load: ", post.pathname);
@@ -359,9 +350,7 @@ export async function handler(
         "twitter:image": ogImage ?? blogState.cover,
         "twitter:card": ogImage ? twitterCard : undefined,
       },
-      styles: [
-        ...(blogState.style ? [blogState.style] : []),
-      ],
+    styles: blogState.styles,
       body: (
         <Index
           state={blogState}
