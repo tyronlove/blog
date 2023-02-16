@@ -1,11 +1,13 @@
 ---
-title : "Now"
-description : "What I'm doing now."
+author : Tyron
+publish_date: 2023-02-16
+title : "What I'm Doing Now"
+description : "This is what I'm doing in my life right now."
 allow_iframes: true
 pathname: "now"
 ---
 
-<em>Updated: 16th February 2023</em>
+<em>This now page (actually, blog post) was inspired by [Derek Sivers](https://nownownow.com/about). I used to have a Now page on my old tiny website, but since I'm using Deno's blog boilerplate I haven't figured out how to make stand-alone pages. One reason why I will be either coding my own static site generator with Deno or using Blot.</em>
 
 # What I'm Doing Now
 
@@ -26,6 +28,3 @@ I've come to accept how my interests continueously shift. Last November and Dece
 I started a new job this year as an remote in-house SEO for a forex broker. It's what I'm good at and I appreciate the flexibility of working from home and the salary that comes with working for a global company.
 
 <img src="../images/All_I_Need_small.jpg" />
-
-
-<em>This now page was inspired by [Derek Sivers](https://nownownow.com/about).</em>
