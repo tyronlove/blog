@@ -7,7 +7,7 @@ allow_iframes: true
 pathname: "now"
 ---
 
-# Now Page
+## Now Page
 This now page (actually, blog post) was inspired by [Derek Sivers](https://nownownow.com/about). I used to have a Now page on my old tiny website, but since I'm using Deno's blog boilerplate I haven't figured out how to make stand-alone pages. One reason why I will be either coding my own static site generator with Deno or using Blot.
 
 ## Web Dev
