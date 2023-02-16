@@ -25,6 +25,7 @@ I've come to accept how my interests continueously shift. Last November and Dece
 ## Work
 I started a new job this year as an remote in-house SEO for a forex broker. It's what I'm good at and I appreciate the flexibility of working from home and the salary that comes with working for a global company.
 
----
+<img src="../images/All_I_Need_small.jpg" />
+
 
 <em>This now page was inspired by [Derek Sivers](https://nownownow.com/about).</em>
