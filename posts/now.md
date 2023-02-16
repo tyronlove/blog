@@ -1,6 +1,6 @@
 ---
 author : Tyron
-publish_date: 16th February 2023
+publish_date: 2023-02-16
 title : "What I'm Doing Now"
 description : "This is what I'm doing in my life right now."
 allow_iframes: true
