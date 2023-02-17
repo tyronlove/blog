@@ -8,7 +8,7 @@ pathname: "now"
 ---
 
 ## Now Page
-This now page (actually, blog post) was inspired by [Derek Sivers](https://nownownow.com/about). I used to have a Now page on my old tiny website, but since I'm using Deno's blog boilerplate I haven't figured out how to make stand-alone pages. One reason why I will be either coding my own static site generator with Deno or using Blot.
+This now page (actually, blog post) was inspired by [Derek Sivers](https://nownownow.com/about). I used to have a Now page on my old tiny website, but since I'm using Deno's blog boilerplate I haven't figured out how to make stand-alone pages. One reason why I will be either be coding my own static site generator with Deno or using Blot.
 
 ## Web Dev
 I've been fiddling a lot with web development again after many years. Currently, I'm learning [Deno](https://deno.land/) which is the relative of Node.js and I'm reading up on WordPress theme development as I've got an idea to create a blogging focused WordPress theme that is elegant in design and function; too many WordPress themes these days try to do it all.
